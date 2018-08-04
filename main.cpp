@@ -4,8 +4,8 @@
 
 using namespace std;
 
-main()
+int main()
 {
-    printf("tu gfa");    system("cls");
-    printf("es puta xd");    system("cls");
+    printf("HelloWorld :)");
+    return 0;
 }
